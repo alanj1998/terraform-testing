@@ -1,3 +1,5 @@
+## READ UP ON [https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca](How to use Terraform by Gruntwork.io)
+
 1. Set up provider of aws :
 ```
 provider "aws" {
